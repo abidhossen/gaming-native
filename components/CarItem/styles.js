@@ -12,14 +12,17 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: 40,
-    fontWeight: '500',
+    fontWeight: '700',
+    color: '#ffff',
+    marginBottom: 50
   },
   subtitleCTA: {
     textDecorationLine: 'underline',
   },
   subtitle: {
-    fontSize: 16,
-    color: '#5c5e62'
+    fontSize: 20,
+    fontWeight: '500',
+    color: '#ffff'
   },
 
   image: {
